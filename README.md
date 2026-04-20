@@ -5,13 +5,7 @@
 
 **让国际版 Minecraft 客户端连接网易版服务器**  
 *解除客户端锁定 —— 使用任意启动器游玩网易服务器。*
-
----
-
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Minecraft](https://img.shields.io/badge/Minecraft-1.12.2--1.20+-green.svg)]()
-
----
 
 ## 🧀 Introduction / 项目简介
 
