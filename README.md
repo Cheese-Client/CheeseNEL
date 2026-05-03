@@ -28,4 +28,4 @@
 | Protocol Conversion – Dynamically adapt international client protocol to NetEase's modified protocol | 协议转换 – 将国际版客户端协议动态适配至网易修改版协议 |
 | Low Latency – Zero additional encryption overhead, direct connection to NetEase server nodes | 低延迟 – 零额外加密开销，直连网易服务器节点 |
 | Cross-Version Compatible – Supports Minecraft 1.12.2 to 1.20+ | 跨版本兼容 – 支持 Minecraft 1.12.2 至 1.20+ |
-| Lightweight – Single-file executable, memory usage under 20MB | 轻量级 – 单文件可执行程序，内存占用低于 20MB |
+| Lightweight – Single batch file , memory usage under 20MB | 轻量级 – 单个批处理文件，内存占用低于 5MB |
